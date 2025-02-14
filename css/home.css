@@ -1,11 +1,17 @@
 home.css
 h1{
     color:aquamarine;
+    font-size: 300%;
 
 }
-img{
-    height: 300px;
-    width: 250px;
+h2
+{
+    color: aquamarine;
+    font-size: 300%;
+}
+.responsive-img{
+    height: 600px;
+    width: 550px;
     border:black;
     border-radius: 75%;
 
@@ -17,4 +23,7 @@ img{
      
      }
   }
-  
+  a
+  {
+    font-size: 300%;
+  }
