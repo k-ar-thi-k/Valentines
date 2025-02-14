@@ -1,0 +1,30 @@
+
+body {
+   background-color:crimson;
+   color:#fff;
+
+}
+h1 {
+   color: rgb(13, 13, 13);
+}
+
+
+p1
+{
+    color:black;
+    font-size: xx-large;
+}
+.responsive-img
+{
+      height: 200px;
+      width: 150px;
+      border:black;
+   
+}
+@media only screen and (min-device-width: 440px) and (max-device-width: 956px) and (orientation: portrait) {
+   body {
+       background-color:crimson;
+       color:#fff;
+    
+    }
+ }
